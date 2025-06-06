@@ -56,6 +56,7 @@ const hardcodedCategories = [
   "Outdoor",
   "Flowering",
   "Succulents",
+  "Water Plants",
   "Air Purifying",
   "Palms",
   "Spices",

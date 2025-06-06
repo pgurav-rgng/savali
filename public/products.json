@@ -6,7 +6,7 @@
     "description": "Elegant Areca Palm, a tropical plant that adds a touch of greenery to any space.",
     "price": 400,
     "image": "arecapalm.webp",
-    "category": ["Indoor", "Palms", "Air purifying"],
+    "category": ["Indoor", "Palms", "Air Purifying"],
     "width": 980,
     "height": 1222
   },
@@ -17,7 +17,7 @@
     "description": "Classic Jade plant, a succulent representing growth and renewal.",
     "price": 250,
     "image": "jade.webp",
-    "category": ["Indoor", "Succulents", "Low maintenance", "Auspicious"],
+    "category": ["Indoor", "Succulents", "Auspicious"],
     "width": 3072,
     "height": 4096
   },
@@ -28,7 +28,7 @@
     "description": "Hardy Snake Plant, excellent for air purification and low maintenance.",
     "price": 399,
     "image": "snakeplant.webp",
-    "category": ["Indoor", "Air purifying", "Low maintenance"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 3072,
     "height": 4096
   },
@@ -39,7 +39,7 @@
     "description": "Popular plant believed to bring good luck and prosperity.",
     "price": 300,
     "image": "money_plant.webp",
-    "category": ["Indoor", "Auspicious", "Low maintenance"],
+    "category": ["Indoor", "Auspicious"],
     "width": 620,
     "height": 980
   },
@@ -61,7 +61,7 @@
     "description": "Stunning pink Lotus flower, symbolizing purity and enlightenment.",
     "price": 600,
     "image": "lotus_pink.webp",
-    "category": ["Water", "Flowering"],
+    "category": ["Water Plants", "Flowering"],
     "width": 1200,
     "height": 1600
   },
@@ -83,7 +83,7 @@
     "description": "Festive Christmas tree plant, ideal for holiday decorations.",
     "price": 900,
     "image": "christmas_tree.webp",
-    "category": ["Seasonal/holiday"],
+    "category": ["Indoor"],
     "width": 1200,
     "height": 1600
   },
@@ -105,7 +105,7 @@
     "description": "Graceful Dracaena plant, known for its air-purifying qualities.",
     "price": 1050,
     "image": "draceana.webp",
-    "category": ["Indoor", "Air purifying"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 1200,
     "height": 1600
   },
@@ -127,7 +127,7 @@
     "description": "Jade plant in a brown pot, symbolizing good luck and friendship.",
     "price": 499,
     "image": "jade_in_brown_pot.webp",
-    "category": ["Indoor", "Succulents", "Low maintenance", "Auspicious"],
+    "category": ["Indoor", "Succulents", "Auspicious"],
     "width": 1200,
     "height": 1600
   },
@@ -138,7 +138,7 @@
     "description": "Spider Plant with arching leaves and baby plantlets, great for hanging baskets.",
     "price": 499,
     "image": "spider_plant.webp",
-    "category": ["Indoor", "Air purifying", "Low maintenance"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 1200,
     "height": 1600
   },
@@ -149,7 +149,7 @@
     "description": "Beautiful Water Lilies floating gracefully on water surfaces.",
     "price": 499,
     "image": "waterlilies.webp",
-    "category": ["Water", "Flowering"],
+    "category": ["Water Plants", "Flowering"],
     "width": 816,
     "height": 738
   },
@@ -160,7 +160,7 @@
     "description": "Exquisite White Mussaenda with delicate white bracts and yellow flowers.",
     "price": 499,
     "image": "white_mussaenda.webp",
-    "category": ["Outdoor", "Flowering", "Border/hedge"],
+    "category": ["Outdoor", "Flowering"],
     "width": 1200,
     "height": 1600
   },
@@ -193,7 +193,7 @@
     "description": "Vibrant Jaswand (Hibiscus) flower with large, showy blossoms.",
     "price": 499,
     "image": "jaswand.webp",
-    "category": ["Outdoor", "Flowering", "Border/hedge"],
+    "category": ["Outdoor", "Flowering"],
     "width": 1200,
     "height": 1600
   },
@@ -204,7 +204,7 @@
     "description": "Bell-shaped Jaswand variety with unique hanging flowers.",
     "price": 499,
     "image": "ghanti_jaswand.webp",
-    "category": ["Outdoor", "Flowering", "Border/hedge"],
+    "category": ["Outdoor", "Flowering"],
     "width": 1200,
     "height": 1600
   },
@@ -226,7 +226,7 @@
     "description": "Another variety of Areca Palm with lush, feathery fronds.",
     "price": 499,
     "image": "areca_palm.webp",
-    "category": ["Indoor", "Palms", "Air purifying"],
+    "category": ["Indoor", "Palms", "Air Purifying"],
     "width": 1200,
     "height": 1600
   },
@@ -369,7 +369,7 @@
     "description": "Ficus Lyrata, also known as Fiddle Leaf Fig, with large, glossy leaves.",
     "price": 800,
     "image": "fiddle-leaf.webp",
-    "category": ["Indoor", "Air purifying"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 554,
     "height": 554
   },
@@ -413,7 +413,7 @@
     "description": "A beautiful and easy-to-care-for Aglaonema plant, known for its striking variegated leaves.",
     "price": 450,
     "image": "agalonema.webp",
-    "category": ["Indoor", "Air purifying", "Low maintenance"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 3072,
     "height": 4096
   },
@@ -424,7 +424,7 @@
     "description": "Arrowhead plant with distinctive arrow-shaped leaves.",
     "price": 499,
     "image": "arrowhead.webp",
-    "category": ["Indoor", "Air purifying"],
+    "category": ["Indoor", "Air Purifying"],
     "width": 1200,
     "height": 1600
   },
@@ -556,7 +556,7 @@
     "description": "Golden pothos vine perfect for hanging displays.",
     "price": 499,
     "image": "h_golden_pothos.webp",
-    "category": ["Hanging", "Air-purifying"],
+    "category": ["Hanging", "Air Purifying"],
     "width": 538,
     "height": 1192
   },
@@ -644,7 +644,7 @@
     "description": "Spider plant with arching leaves and plantlets.",
     "price": 499,
     "image": "h_spider_plant.webp",
-    "category": ["Hanging", "Air-purifying"],
+    "category": ["Hanging", "Air Purifying"],
     "width": 936,
     "height": 1224
   },
